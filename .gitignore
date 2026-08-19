@@ -1,0 +1,11 @@
+# секрети
+.env
+.env.*
+!.env.example
+
+# службове від IDE та системи
+.idea/
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
